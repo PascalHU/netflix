@@ -17,6 +17,7 @@ section {
 }
 h3 {
   color: white;
+  font-family: "Roboto", sans-serif;
 }
 .movie {
   display: flex;

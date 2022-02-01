@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Header />
-      <div class="container">
+      <div>
         {movie.map((data, index) => {
           return (
             <Section
